@@ -1,4 +1,5 @@
 {
+  "name": "@docuply-e2e-frontend-testing/validation-app",
   "description": "This repository contains a collaborative starter kit using Liveblocks and Next.js.",
   "license": "Apache-2.0",
   "private": true,

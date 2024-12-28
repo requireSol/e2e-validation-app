@@ -35,12 +35,11 @@ export default async function Index() {
     <MarketingLayout>
       <Container className={styles.section}>
         <div className={styles.heroInfo}>
-          <h1 className={styles.heroTitle}>
-            Kickstart your collaborative&nbsp;app
-          </h1>
+          <h1 className={styles.heroTitle}>E2E Testing Validation</h1>
           <p className={styles.heroLead}>
-            Use the Liveblocks Starter Kit to build your document-based
-            collaborative app in&nbsp;minutes.
+            This project is a modified version of the Open-Source Starter Kit
+            from Liveblocks, designed to serve as a validation app for
+            end-to-end testing. Modified by Enam Solaimani.
           </p>
         </div>
         <div className={styles.heroActions}>
